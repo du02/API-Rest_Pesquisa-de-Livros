@@ -12,10 +12,15 @@ Pesquisar, adicionar, editar e excluir livros.
 
 ### Ferramentas: (Tools:)
 > axios
+#####
 > cors
+#####
 > dotenv
+#####
 > express
+#####
 > mysql2
+#####
 > sequelize
 
 ### OBservação: (Note:)
